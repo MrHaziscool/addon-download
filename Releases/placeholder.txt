@@ -1,0 +1,4 @@
+This directory contains the complete release history of our addon, including previous versions and
+updates. Each release is preserved so users can access older builds whenever needed, check version
+changes, or return to a version that best suits their setup. We aim to keep every release organised,
+accessible, and easy to identify.
